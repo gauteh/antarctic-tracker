@@ -14,3 +14,9 @@ Configured for the OpenLogArtemis with the [LPS28DFW pressure sensor](https://gi
 The charging circuit is designed for Lithium-Ion batteries and provides _450
 mA_ at _3.7 V_. That means that the capacity of the battery should be at least
 _450 mAh_. See [OpenLog power](https://learn.sparkfun.com/tutorials/openlog-artemis-hookup-guide/hardware-overview#power) for more information.
+
+### External power and USB
+
+The _VIN_ pin is connected to _5V USB_. This means that if providing power on
+_VIN_ (e.g. through an external battery pack): all other power sources must be
+connected, _including USB_.
