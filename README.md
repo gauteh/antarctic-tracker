@@ -1,4 +1,4 @@
-# GPS and barometric tracker for the OpenLogArtemis for accurate determiniation of height and position
+# GPS and barometric tracker based on the OpenLogArtemis for accurate determiniation of height and position
 
 Configured for the OpenLogArtemis with the [LPS28DFW pressure sensor](https://github.com/sparkfun/OpenLog_Artemis/pull/179).
 
