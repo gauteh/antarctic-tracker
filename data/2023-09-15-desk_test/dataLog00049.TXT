@@ -1,0 +1,2 @@
+rtcDate,rtcTime,gps_Date,gps_Time,gps_Lat,gps_Long,gps_Alt,gps_AltMSL,gps_SIV,gps_FixType,gps_CarrierSolution,gps_GroundSpeed,gps_Heading,gps_pDOP,pressure_hPa,pressure_degC,output_Hz,
+2023/09/15,12:43:32.61,2023/09/15,12:43:33.000,603838300,53313819,112249,68456,0,0,0,0,0,9999,1015.23,24.31,1.887,
