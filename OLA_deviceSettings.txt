@@ -16,4 +16,3 @@ GPS-ublox.3.66.0.0.useAutoPVT=0
 Pressure-LPS28DFW.8.92.0.0.log=1
 Pressure-LPS28DFW.8.92.0.0.logPressure=1
 Pressure-LPS28DFW.8.92.0.0.logTemperature=1
-

@@ -1,0 +1,4 @@
+gps_Date,gps_Time,gps_Lat,gps_Long,gps_Alt,gps_AltMSL,gps_SIV,gps_FixType,gps_CarrierSolution,gps_GroundSpeed,gps_Heading,gps_pDOP,pressure_hPa,pressure_degC,output_Hz,
+2021/03/07,00:00:06.000,0,0,0,-17000,0,0,0,0,0,9999,1009.59,21.48,2.381,
+2021/03/07,00:00:32.000,0,0,0,-17000,0,0,0,0,0,9999,1009.59,21.79,0.076,
+2021/03/07,00:01:02.000,0,0,0,-17000,0,0,0,0,0,9999,1009.57,22.03,0.053,
