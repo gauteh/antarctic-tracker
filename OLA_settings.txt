@@ -1,7 +1,7 @@
 sizeOfSettings=168
 olaIdentifier=293
 nextSerialLogNumber=1
-nextDataLogNumber=81
+nextDataLogNumber=83
 usBetweenReadings=30000000
 logMaxRate=0
 enableRTC=1
@@ -36,7 +36,7 @@ qwiicBusPowerUpDelayMs=250
 printMeasurementCount=0
 enablePwrLedDuringSleep=0
 logVIN=0
-openNewLogFilesAfter=0
+openNewLogFilesAfter=3600
 vinCorrectionFactor=1.47
 useGPIO32ForStopLogging=0
 qwiicBusPullUps=1
