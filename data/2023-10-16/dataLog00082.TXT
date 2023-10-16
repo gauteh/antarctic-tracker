@@ -1,0 +1,3 @@
+gps_Date,gps_Time,gps_Lat,gps_Long,gps_Alt,gps_AltMSL,gps_SIV,gps_FixType,gps_CarrierSolution,gps_GroundSpeed,gps_Heading,gps_pDOP,pressure_hPa,pressure_degC,output_Hz,
+2023/10/06,12:35:49.000,603836298,53315798,86052,42258,9,3,0,486,11770570,526,992.80,22.45,4.545,
+2023/10/06,12:35:50.000,603836349,53315822,85564,41770,10,3,0,199,11770570,274,992.75,22.46,1.770,
