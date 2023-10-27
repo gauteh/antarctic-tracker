@@ -19,3 +19,6 @@ df['gps_pDOP'] = df['gps_pDOP'] * 1.e-2
 
 print(df)
 print(df.iloc[-1])
+
+df.to_csv('gma.csv')
+
